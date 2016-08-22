@@ -21,6 +21,5 @@ git push -u origin master
 /*
 git add --all
 git commit -m "first commit" // or whatever u want to say
-git remote add origin https://github.com/kevinlin14/expresss.git
 git push -u origin master 
 */
