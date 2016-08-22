@@ -1,0 +1,124 @@
+/*Laptops*/
+@media screen and (max-width: 1500px) {
+	body{
+		background:rgb(204, 255, 255);
+	}
+		#search{
+			width:100%;
+			height: 49px;
+			border: 2px solid black;
+			box-shadow: 2px 2px 1px 1px #999;
+			background: linear-gradient(rgb(0, 102, 128),rgb(0, 204, 255));
+			}
+
+		#searchbar{
+			float:right;
+			margin-top:15px;
+			margin-left:15px;
+			width:30%;
+		}
+		#Occurring{
+			margin-top:60px;
+			float:right;
+			width:20%;
+			height:960px;
+			border:2px solid white;
+			background: white;
+			box-shadow: 2px 2px 1px 1px #999;
+		}
+		#Linebar{
+			width:6%;
+			height:300px;
+		}
+		#border{
+			border: 2px solid white;
+			box-shadow: 2px 2px 1px 1px #999;
+			margin-left: 30%;
+			margin-top:3%;
+			width:15%;
+			height:50%;
+			background-color:white;
+		}
+		#Border2{
+			margin-top:30px;
+			margin-left:6%;
+			width:15%;
+			height:250px;
+			border:2px solid white;
+			border-radius: 1px;	
+			text-align: center;
+			box-shadow: 2px 2px 1px 1px #999;
+			float:left;
+			background-color:white;
+		}
+		#Border3{
+			margin-top:30px;
+			margin-left:1%;
+			width:15%;
+			height:250px;
+			border:2px solid white;
+			border-radius: 1px;	
+			text-align: center;
+			box-shadow: 2px 2px 1px 1px #999;
+			float:left;
+			background-color:white;
+		}
+		#Border4{
+			width:100%;
+			height:100px;
+		}
+		#img1{
+			margin-top:10px;
+			margin-left:15px;
+			border:2px solid white;
+			border-radius: 1px;
+
+		}
+		#img2{
+			width:160px;
+			height:160px;
+			margin-top:10px;
+			margin-left:1px;
+			border:2px solid white;
+			border-radius: 1px;
+		}
+		#img3{
+			width:50px;
+			height:50px;
+			margin-top:1%;
+			margin-left:40%;
+		}
+		#text{
+			text-align: center;
+			border-bottom: 2px solid black;
+		}
+
+		#Name{
+			margin-left:15px;
+		}
+		#Taskbar{
+			margin-left:2%;
+			width:5%;
+			height:80%;
+			float:left;
+		}
+		#general{
+			margin-left:10%;
+			margin-top:50px;
+			width:60%;
+			height:50px;
+			border:2px solid white;
+			box-shadow: 2px 2px 1px 1px #999;
+			background-color:white;
+			text-align: center;
+		}
+		#profilearea{
+			width:100%;
+		}
+}
+/* Tablet screen */
+@media screen and (max-width: 760px) {
+	body{
+		background:rgb(204, 255, 255);
+	}
+}
